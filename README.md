@@ -4,7 +4,7 @@
 
 ANSWER: Write text here
 
-## Write Java code for all interfaces/classes you find necessary so that the Main compiles and when it executes it prints the expected results. (see Main.java) 		
+## Write Java code for all interfaces/classes you find necessary so that the Main compiles and when it executes it prints the expected results. (see Main.java, do not change Main.java) 		
 
 Your answer should be the Java files in the repo.
 
